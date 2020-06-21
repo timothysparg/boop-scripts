@@ -1,0 +1,25 @@
+{
+  "name": "boop-scripts",
+  "version": "0.0.0",
+  "description": "Scripts to extend boop",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --rootDir test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/timothysparg/boop-scripts.git"
+  },
+  "keywords": [
+    "boop"
+  ],
+  "author": "Tim Sparg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timothysparg/boop-scripts/issues"
+  },
+  "homepage": "https://github.com/timothysparg/boop-scripts#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
