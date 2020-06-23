@@ -4,7 +4,7 @@
         "name":"Dasher",
         "description":"replace spaces with dashes",
         "author":"Tim Sparg",
-        "icon":"dash",
+        "icon":"minus",
         "tags":""
     }
 **/
